@@ -5,7 +5,7 @@ I'm an undergraduate student at the Universitat de Lleida, currently focusing on
 
 🎾 Current Project: Building a Paddle Sports Simulator in Unreal Engine 5. I'm pushing the limits of physics-based gameplay and responsive mechanics.
 
-💻 Right now learning: I'm learning Python, Django
+💻 Right now learning: Django for building web backends, alongside Python, Java, and C.
 
 📧 Reach me at: sergi.nh2005@gmail.com
 
