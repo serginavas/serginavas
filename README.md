@@ -1,15 +1,19 @@
 ### Hi, I'm Sergi Navas! 👋
 ---
-👓 About me
+#### 👓 About me
 I'm an undergraduate student at the Universitat de Lleida, currently focusing on software development and high-performance game development.
 
-🎾 Current Project: Building a Paddle Sports Simulator in Unreal Engine 5. I'm pushing the limits of physics-based gameplay and responsive mechanics.
+#### 🎾 Current Project: 
+Building a Paddle Sports Simulator in Unreal Engine 5. I'm pushing the limits of physics-based gameplay and responsive mechanics.
 
-💻 Right now learning: Django for building web backends, alongside Python, Java, and C.
+#### 💻 Right now learning: 
+Django for building web backends, alongside Python, Java, and C.
 
-📧 Reach me at: sergi.nh2005@gmail.com
+#### 📧 Reach me at: 
+sergi.nh2005@gmail.com
 
-⚡ Fun fact: I spend more time debugging ball physics in my paddle game than actually playing paddle in real life!
+#### ⚡ Fun fact: 
+I spend more time debugging ball physics in my paddle game than actually playing paddle in real life!
 
 ---
 
